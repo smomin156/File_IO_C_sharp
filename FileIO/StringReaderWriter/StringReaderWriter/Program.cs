@@ -14,7 +14,6 @@ namespace StringReaderWriter
         {
             StringBuilder sb = new StringBuilder();
             StringWriter sw = new StringWriter(sb);
-            Console.WriteLine("Welcome to the Profile Program");
             Console.Write("Name :");
             string name = Console.ReadLine();
 
@@ -26,10 +25,7 @@ namespace StringReaderWriter
             Console.Write("Age :");
             string age = Console.ReadLine();
 
-            Console.WriteLine("Thank You");
             Console.WriteLine("Information Saved!");
-            Console.WriteLine();
-
             sw.Flush();
             sw.Close();
             Console.WriteLine("-------------------------------------------------");
