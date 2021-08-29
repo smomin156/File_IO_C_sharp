@@ -1,0 +1,7 @@
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\bin\Debug\StringReaderWriter.exe.config
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\bin\Debug\StringReaderWriter.exe
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\bin\Debug\StringReaderWriter.pdb
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\obj\Debug\StringReaderWriter.csproj.AssemblyReference.cache
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\obj\Debug\StringReaderWriter.csproj.CoreCompileInputs.cache
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\obj\Debug\StringReaderWriter.exe
+C:\TRAINING\FileIO\StringReaderWriter\StringReaderWriter\obj\Debug\StringReaderWriter.pdb

@@ -1,0 +1,7 @@
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe.config
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.exe
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\bin\Debug\BinaryReaderWriter.pdb
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.AssemblyReference.cache
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.exe
+C:\TRAINING\FileIO\BinaryReaderWriter\BinaryReaderWriter\obj\Debug\BinaryReaderWriter.pdb

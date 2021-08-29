@@ -1,0 +1,7 @@
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\bin\Debug\FileStream_Assign.exe.config
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\bin\Debug\FileStream_Assign.exe
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\bin\Debug\FileStream_Assign.pdb
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\obj\Debug\FileStream_Assign.csproj.AssemblyReference.cache
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\obj\Debug\FileStream_Assign.csproj.CoreCompileInputs.cache
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\obj\Debug\FileStream_Assign.exe
+C:\TRAINING\FileIO\FileStream_Assign\FileStream_Assign\obj\Debug\FileStream_Assign.pdb

@@ -1,0 +1,7 @@
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe.config
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.pdb
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.csproj.AssemblyReference.cache
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.csproj.CoreCompileInputs.cache
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.exe
+C:\TRAINING\FileIO\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.pdb

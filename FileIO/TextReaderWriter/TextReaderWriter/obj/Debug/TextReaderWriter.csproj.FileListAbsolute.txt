@@ -1,0 +1,7 @@
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe.config
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.pdb
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csproj.AssemblyReference.cache
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csproj.CoreCompileInputs.cache
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.exe
+C:\TRAINING\FileIO\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.pdb
